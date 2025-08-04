@@ -1,0 +1,1 @@
+export default function VelibStatus() { return <div>Velib</div>; }

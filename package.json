@@ -1,0 +1,21 @@
+{
+  "name": "ratp",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://plero75.github.io/ratp",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^4.0.0",
+    "gh-pages": "^5.0.0"
+  }
+}

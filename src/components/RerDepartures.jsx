@@ -1,0 +1,1 @@
+export default function RerDepartures() { return <div>RER</div>; }

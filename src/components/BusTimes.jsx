@@ -1,0 +1,1 @@
+export default function BusTimes() { return <div>Bus</div>; }

@@ -1,0 +1,1 @@
+export default function NewsTicker() { return <div>News</div>; }
